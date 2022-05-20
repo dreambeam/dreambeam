@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=dreambeam&show_icons=true&theme=tokyonight)
 
 🔧 Technologies & Tools
+
+
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dreambeam.visitor-badge)
+-->
